@@ -60,6 +60,7 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 39 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)  | [View Code](day39_self_dividing_number.cpp) |
 | Day 40 | [Count Primes](https://leetcode.com/problems/count-primes/description/)  | [View Code](day40_count_primes.cpp) |
 | Day 41 | [Single Number](https://leetcode.com/problems/single-number/description/)  | [View Code](day41_single_number.cpp) |
+| Day 42 | [Gray Code](https://leetcode.com/problems/gray-code/description/)  | [View Code](day42_gray_code.cpp) |
 
 ---
 
@@ -135,6 +136,7 @@ leetcode-daily
 ├── day39_self_dividing_number.cpp
 ├── day40_count_primes.cpp
 ├── day41_single_number.cpp
+├── day42_gray_code.cpp
 └── README.md
 ```
 
