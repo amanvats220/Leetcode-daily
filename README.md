@@ -61,6 +61,7 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 40 | [Count Primes](https://leetcode.com/problems/count-primes/description/)  | [View Code](day40_count_primes.cpp) |
 | Day 41 | [Single Number](https://leetcode.com/problems/single-number/description/)  | [View Code](day41_single_number.cpp) |
 | Day 42 | [Gray Code](https://leetcode.com/problems/gray-code/description/)  | [View Code](day42_gray_code.cpp) |
+| Day 43 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)  | [View Code](day43_number_of_1_bits.cpp) |
 
 ---
 
@@ -137,6 +138,7 @@ leetcode-daily
 ├── day40_count_primes.cpp
 ├── day41_single_number.cpp
 ├── day42_gray_code.cpp
+├── day43_number_of_1_bits.cpp
 └── README.md
 ```
 
