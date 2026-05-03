@@ -65,6 +65,7 @@ In this repository, I am solving **1 LeetCode problem every day for 365 days** a
 | Day 44 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/)  | [View Code](day44_concatenation_of_array.cpp) |
 | Day 45 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)  | [View Code](day45_set_mismatch.cpp) |
 | Day 46 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/description/)  | [View Code](day46_rotated_digits.cpp) |
+| Day 47 | [Rotate String](https://leetcode.com/problems/rotate-string/description/)  | [View Code](day47_rotate_string.cpp) |   
 ---
 
 # 🧠 Topics Covered
@@ -144,7 +145,7 @@ leetcode-daily
 ├── day44_concatenation_of_array.cpp
 ├── day45_set_mismatch.cpp
 ├── day46_rotated_digits.cpp
-
+├── day47_rotate_string.cpp
 └── README.md
 ```
 
